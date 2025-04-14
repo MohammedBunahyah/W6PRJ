@@ -41,7 +41,7 @@ Edit
   - Neutral: 0.71  
   - Negative: 0.86  
 
-> Originally tried DistilBERT (~60% accuracy). Switched to BERT for better performance.
+> Originally tried DistilBERT (~71% accuracy). Switched to BERT for better performance.
 
 ---
 
